@@ -1,0 +1,2543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\MariaDB Sever\mysql\general_log.CSV">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\MariaDB Sever\mysql\slow_log.CSV">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Chess\.venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arccos.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Chess\.venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arccosh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Chess\.venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arcsin.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Chess\.venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arcsinh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Chess\.venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arctan.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Chess\.venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arctanh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Chess\.venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-cbrt.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Chess\.venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-cos.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Chess\.venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-cosh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Chess\.venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-exp.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Chess\.venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-exp2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Chess\.venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-expm1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Chess\.venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-log.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Chess\.venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-log10.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Chess\.venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-log1p.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Chess\.venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-log2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Chess\.venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-sin.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Chess\.venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-sinh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Chess\.venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-tan.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Chess\.venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-tanh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Chess\.venv\Lib\site-packages\numpy\random\tests\data\mt19937-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Chess\.venv\Lib\site-packages\numpy\random\tests\data\mt19937-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Chess\.venv\Lib\site-packages\numpy\random\tests\data\pcg64-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Chess\.venv\Lib\site-packages\numpy\random\tests\data\pcg64-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Chess\.venv\Lib\site-packages\numpy\random\tests\data\pcg64dxsm-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Chess\.venv\Lib\site-packages\numpy\random\tests\data\pcg64dxsm-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Chess\.venv\Lib\site-packages\numpy\random\tests\data\philox-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Chess\.venv\Lib\site-packages\numpy\random\tests\data\philox-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Chess\.venv\Lib\site-packages\numpy\random\tests\data\sfc64-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Chess\.venv\Lib\site-packages\numpy\random\tests\data\sfc64-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Discord-bot-for-spotify\csv_files\data_album.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Discord-bot-for-spotify\csv_files\data_artist.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Discord-bot-for-spotify\csv_files\data_track.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\matplotlib\mpl-data\sample_data\Stocks.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\matplotlib\mpl-data\sample_data\data_x_x2_x3.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\matplotlib\mpl-data\sample_data\msft.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\matplotlib\mpl-data\sample_data\percent_bachelors_degrees_women_usa.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arccos.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arccosh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arcsin.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arcsinh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arctan.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arctanh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-cbrt.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-cos.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-cosh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-exp.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-exp2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-expm1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-log.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-log10.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-log1p.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-log2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-sin.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-sinh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-tan.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-tanh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\random\tests\data\mt19937-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\random\tests\data\mt19937-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\random\tests\data\pcg64-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\random\tests\data\pcg64-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\random\tests\data\pcg64dxsm-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\random\tests\data\pcg64dxsm-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\random\tests\data\philox-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\random\tests\data\philox-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\random\tests\data\sfc64-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\random\tests\data\sfc64-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\sklearn\datasets\data\boston_house_prices.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\sklearn\datasets\data\breast_cancer.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\sklearn\datasets\data\iris.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\sklearn\datasets\data\linnerud_exercise.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\sklearn\datasets\data\linnerud_physiological.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\sklearn\datasets\data\wine_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\matplotlib\mpl-data\sample_data\Stocks.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\matplotlib\mpl-data\sample_data\data_x_x2_x3.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\matplotlib\mpl-data\sample_data\msft.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\matplotlib\mpl-data\sample_data\percent_bachelors_degrees_women_usa.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arccos.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arccosh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arcsin.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arcsinh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arctan.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arctanh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\core\tests\data\umath-validation-set-cbrt.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\core\tests\data\umath-validation-set-cos.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\core\tests\data\umath-validation-set-cosh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\core\tests\data\umath-validation-set-exp.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\core\tests\data\umath-validation-set-exp2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\core\tests\data\umath-validation-set-expm1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\core\tests\data\umath-validation-set-log.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\core\tests\data\umath-validation-set-log10.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\core\tests\data\umath-validation-set-log1p.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\core\tests\data\umath-validation-set-log2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\core\tests\data\umath-validation-set-sin.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\core\tests\data\umath-validation-set-sinh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\core\tests\data\umath-validation-set-tan.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\core\tests\data\umath-validation-set-tanh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\random\tests\data\mt19937-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\random\tests\data\mt19937-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\random\tests\data\pcg64-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\random\tests\data\pcg64-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\random\tests\data\pcg64dxsm-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\random\tests\data\pcg64dxsm-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\random\tests\data\philox-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\random\tests\data\philox-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\random\tests\data\sfc64-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\random\tests\data\sfc64-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Machine Learning 101\Horror Trees\task\halloween.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Machine Learning 101\Iris Network\task\iris.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Machine Learning 101\Neighbors and wine\task\wine.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\Machine Learning 101\Pima indians diabetes and linear classifier\task\pima-indians-diabetes.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\MachineLearning\data\genome-tags.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\MachineLearning\data\ml-latest\genome-tags.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\MachineLearning\data\ml-latest\links.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\MachineLearning\venv\Lib\site-packages\matplotlib\mpl-data\sample_data\data_x_x2_x3.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\MachineLearning\venv\Lib\site-packages\matplotlib\mpl-data\sample_data\msft.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\MachineLearning\venv\Lib\site-packages\matplotlib\mpl-data\sample_data\percent_bachelors_degrees_women_usa.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arccos.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arccosh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arcsin.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arcsinh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arctan.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arctanh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-cbrt.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-cos.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-cosh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-exp.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-exp2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-expm1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-log.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-log10.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-log1p.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-log2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-sin.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-sinh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-tan.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-tanh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\random\tests\data\mt19937-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\random\tests\data\mt19937-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\random\tests\data\pcg64-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\random\tests\data\pcg64-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\random\tests\data\pcg64dxsm-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\random\tests\data\pcg64dxsm-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\random\tests\data\philox-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\random\tests\data\philox-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\random\tests\data\sfc64-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\random\tests\data\sfc64-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\MachineLearning\venv\Lib\site-packages\sklearn\datasets\data\boston_house_prices.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\MachineLearning\venv\Lib\site-packages\sklearn\datasets\data\breast_cancer.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\MachineLearning\venv\Lib\site-packages\sklearn\datasets\data\iris.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\MachineLearning\venv\Lib\site-packages\sklearn\datasets\data\linnerud_exercise.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\MachineLearning\venv\Lib\site-packages\sklearn\datasets\data\linnerud_physiological.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\MachineLearning\venv\Lib\site-packages\sklearn\datasets\data\wine_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\QuickForms\ClienteDEF\data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\circle_cast\.venv\Lib\site-packages\matplotlib\mpl-data\sample_data\Stocks.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\circle_cast\.venv\Lib\site-packages\matplotlib\mpl-data\sample_data\data_x_x2_x3.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\circle_cast\.venv\Lib\site-packages\matplotlib\mpl-data\sample_data\msft.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\circle_cast\.venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arccos.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\circle_cast\.venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arccosh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\circle_cast\.venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arcsin.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\circle_cast\.venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arcsinh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\circle_cast\.venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arctan.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\circle_cast\.venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arctanh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\circle_cast\.venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-cbrt.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\circle_cast\.venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-cos.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\circle_cast\.venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-cosh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\circle_cast\.venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-exp.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\circle_cast\.venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-exp2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\circle_cast\.venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-expm1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\circle_cast\.venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-log.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\circle_cast\.venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-log10.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\circle_cast\.venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-log1p.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\circle_cast\.venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-log2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\circle_cast\.venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-sin.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\circle_cast\.venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-sinh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\circle_cast\.venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-tan.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\circle_cast\.venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-tanh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\circle_cast\.venv\Lib\site-packages\numpy\random\tests\data\mt19937-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\circle_cast\.venv\Lib\site-packages\numpy\random\tests\data\mt19937-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\circle_cast\.venv\Lib\site-packages\numpy\random\tests\data\pcg64-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\circle_cast\.venv\Lib\site-packages\numpy\random\tests\data\pcg64-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\circle_cast\.venv\Lib\site-packages\numpy\random\tests\data\pcg64dxsm-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\circle_cast\.venv\Lib\site-packages\numpy\random\tests\data\pcg64dxsm-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\circle_cast\.venv\Lib\site-packages\numpy\random\tests\data\philox-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\circle_cast\.venv\Lib\site-packages\numpy\random\tests\data\philox-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\circle_cast\.venv\Lib\site-packages\numpy\random\tests\data\sfc64-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\circle_cast\.venv\Lib\site-packages\numpy\random\tests\data\sfc64-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\katinka\the_squares_game_i_am_lazy_to_solve\.venv\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-arccos.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\katinka\the_squares_game_i_am_lazy_to_solve\.venv\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-arccosh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\katinka\the_squares_game_i_am_lazy_to_solve\.venv\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-arcsin.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\katinka\the_squares_game_i_am_lazy_to_solve\.venv\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-arcsinh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\katinka\the_squares_game_i_am_lazy_to_solve\.venv\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-arctan.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\katinka\the_squares_game_i_am_lazy_to_solve\.venv\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-arctanh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\katinka\the_squares_game_i_am_lazy_to_solve\.venv\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-cbrt.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\katinka\the_squares_game_i_am_lazy_to_solve\.venv\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-cos.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\katinka\the_squares_game_i_am_lazy_to_solve\.venv\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-cosh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\katinka\the_squares_game_i_am_lazy_to_solve\.venv\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-exp.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\katinka\the_squares_game_i_am_lazy_to_solve\.venv\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-exp2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\katinka\the_squares_game_i_am_lazy_to_solve\.venv\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-expm1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\katinka\the_squares_game_i_am_lazy_to_solve\.venv\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-log.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\katinka\the_squares_game_i_am_lazy_to_solve\.venv\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-log10.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\katinka\the_squares_game_i_am_lazy_to_solve\.venv\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-log1p.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\katinka\the_squares_game_i_am_lazy_to_solve\.venv\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-log2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\katinka\the_squares_game_i_am_lazy_to_solve\.venv\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-sin.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\katinka\the_squares_game_i_am_lazy_to_solve\.venv\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-sinh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\katinka\the_squares_game_i_am_lazy_to_solve\.venv\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-tan.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\katinka\the_squares_game_i_am_lazy_to_solve\.venv\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-tanh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\katinka\the_squares_game_i_am_lazy_to_solve\.venv\Lib\site-packages\numpy\random\tests\data\mt19937-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\katinka\the_squares_game_i_am_lazy_to_solve\.venv\Lib\site-packages\numpy\random\tests\data\mt19937-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\katinka\the_squares_game_i_am_lazy_to_solve\.venv\Lib\site-packages\numpy\random\tests\data\pcg64-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\katinka\the_squares_game_i_am_lazy_to_solve\.venv\Lib\site-packages\numpy\random\tests\data\pcg64-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\katinka\the_squares_game_i_am_lazy_to_solve\.venv\Lib\site-packages\numpy\random\tests\data\pcg64dxsm-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\katinka\the_squares_game_i_am_lazy_to_solve\.venv\Lib\site-packages\numpy\random\tests\data\pcg64dxsm-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\katinka\the_squares_game_i_am_lazy_to_solve\.venv\Lib\site-packages\numpy\random\tests\data\philox-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\katinka\the_squares_game_i_am_lazy_to_solve\.venv\Lib\site-packages\numpy\random\tests\data\philox-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\katinka\the_squares_game_i_am_lazy_to_solve\.venv\Lib\site-packages\numpy\random\tests\data\sfc64-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\katinka\the_squares_game_i_am_lazy_to_solve\.venv\Lib\site-packages\numpy\random\tests\data\sfc64-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\movieRecomender\data\genome-tags.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\movieRecomender\data\links.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\movieRecomender\data\small_movie_list.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\movieRecomender\data\small_movies_W.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\movieRecomender\data\small_movies_X.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Estudios\Python\movieRecomender\data\small_movies_b.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Java\Forge\run\.mixin.out\audit\mixin_implementation_report.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Java\mods\decocraft-1.16.4\run\.mixin.out\audit\mixin_implementation_report.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Discord-bot-for-spotify\csv_files\data_album.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Discord-bot-for-spotify\csv_files\data_artist.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Discord-bot-for-spotify\csv_files\data_track.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\matplotlib\mpl-data\sample_data\Stocks.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\matplotlib\mpl-data\sample_data\data_x_x2_x3.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\matplotlib\mpl-data\sample_data\msft.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\matplotlib\mpl-data\sample_data\percent_bachelors_degrees_women_usa.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arccos.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arccosh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arcsin.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arcsinh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arctan.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arctanh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-cbrt.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-cos.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-cosh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-exp.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-exp2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-expm1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-log.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-log10.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-log1p.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-log2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-sin.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-sinh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-tan.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-tanh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\random\tests\data\mt19937-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\random\tests\data\mt19937-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\random\tests\data\pcg64-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\random\tests\data\pcg64-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\random\tests\data\pcg64dxsm-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\random\tests\data\pcg64dxsm-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\random\tests\data\philox-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\random\tests\data\philox-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\random\tests\data\sfc64-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\numpy\random\tests\data\sfc64-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\sklearn\datasets\data\boston_house_prices.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\sklearn\datasets\data\breast_cancer.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\sklearn\datasets\data\iris.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\sklearn\datasets\data\linnerud_exercise.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\sklearn\datasets\data\linnerud_physiological.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Discord-bot-for-spotify\venv\Lib\site-packages\sklearn\datasets\data\wine_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\matplotlib\mpl-data\sample_data\Stocks.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\matplotlib\mpl-data\sample_data\data_x_x2_x3.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\matplotlib\mpl-data\sample_data\msft.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\matplotlib\mpl-data\sample_data\percent_bachelors_degrees_women_usa.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arccos.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arccosh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arcsin.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arcsinh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arctan.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arctanh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\core\tests\data\umath-validation-set-cbrt.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\core\tests\data\umath-validation-set-cos.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\core\tests\data\umath-validation-set-cosh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\core\tests\data\umath-validation-set-exp.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\core\tests\data\umath-validation-set-exp2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\core\tests\data\umath-validation-set-expm1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\core\tests\data\umath-validation-set-log.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\core\tests\data\umath-validation-set-log10.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\core\tests\data\umath-validation-set-log1p.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\core\tests\data\umath-validation-set-log2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\core\tests\data\umath-validation-set-sin.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\core\tests\data\umath-validation-set-sinh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\core\tests\data\umath-validation-set-tan.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\core\tests\data\umath-validation-set-tanh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\random\tests\data\mt19937-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\random\tests\data\mt19937-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\random\tests\data\pcg64-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\random\tests\data\pcg64-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\random\tests\data\pcg64dxsm-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\random\tests\data\pcg64dxsm-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\random\tests\data\philox-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\random\tests\data\philox-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\random\tests\data\sfc64-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Machine Learning 101\.idea\VirtualEnvironment\Lib\site-packages\numpy\random\tests\data\sfc64-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Machine Learning 101\Horror Trees\task\halloween.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Machine Learning 101\Iris Network\task\iris.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Machine Learning 101\Neighbors and wine\task\wine.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\Machine Learning 101\Pima indians diabetes and linear classifier\task\pima-indians-diabetes.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\MachineLearning\data\genome-tags.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\MachineLearning\data\ml-latest\genome-tags.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\MachineLearning\data\ml-latest\links.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\MachineLearning\venv\Lib\site-packages\matplotlib\mpl-data\sample_data\data_x_x2_x3.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\MachineLearning\venv\Lib\site-packages\matplotlib\mpl-data\sample_data\msft.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\MachineLearning\venv\Lib\site-packages\matplotlib\mpl-data\sample_data\percent_bachelors_degrees_women_usa.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arccos.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arccosh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arcsin.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arcsinh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arctan.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-arctanh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-cbrt.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-cos.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-cosh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-exp.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-exp2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-expm1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-log.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-log10.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-log1p.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-log2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-sin.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-sinh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-tan.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\core\tests\data\umath-validation-set-tanh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\random\tests\data\mt19937-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\random\tests\data\mt19937-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\random\tests\data\pcg64-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\random\tests\data\pcg64-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\random\tests\data\pcg64dxsm-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\random\tests\data\pcg64dxsm-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\random\tests\data\philox-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\random\tests\data\philox-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\random\tests\data\sfc64-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\MachineLearning\venv\Lib\site-packages\numpy\random\tests\data\sfc64-testset-2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\MachineLearning\venv\Lib\site-packages\sklearn\datasets\data\boston_house_prices.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\MachineLearning\venv\Lib\site-packages\sklearn\datasets\data\breast_cancer.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\MachineLearning\venv\Lib\site-packages\sklearn\datasets\data\iris.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\MachineLearning\venv\Lib\site-packages\sklearn\datasets\data\linnerud_exercise.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\MachineLearning\venv\Lib\site-packages\sklearn\datasets\data\linnerud_physiological.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\MachineLearning\venv\Lib\site-packages\sklearn\datasets\data\wine_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\movieRecomender - Copy\data\genome-tags.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\movieRecomender - Copy\data\links.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\movieRecomender - Copy\data\small_movie_list.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\movieRecomender - Copy\data\small_movies_W.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\movieRecomender - Copy\data\small_movies_X.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\movieRecomender - Copy\data\small_movies_b.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\movieRecomender\data\genome-tags.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\movieRecomender\data\links.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\movieRecomender\data\small_movie_list.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\movieRecomender\data\small_movies_W.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\movieRecomender\data\small_movies_X.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\Nico\OneDrive\Escritorio\Google Chrome\Estudios\Python\movieRecomender\data\small_movies_b.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
